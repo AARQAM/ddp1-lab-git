@@ -1,3 +1,4 @@
+# Ini adalah program untuk menampilkan nama dan NPM pengguna
 nama = input("Masukkan nama kamu: ")
 npm = input("Masukkan NPM kamu: ")
 
